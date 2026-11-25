@@ -118,7 +118,7 @@ describe Minfraud::MinfraudClient do
   end
 
   def request_url_east
-    'https://minfraud-us-east.maxmind.com/app/ccv2r'
+    'https://minfraud.maxmind.com/app/ccv2r'
   end
 
 end
