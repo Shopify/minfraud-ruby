@@ -1,3 +1,5 @@
+Deprecated: This repository is no longer maintained. It has been archived and receives no updates or security fixes.
+
 # Ruby interface to the MaxMind minFraud API
 
 Compatible with [minFraud](http://www.maxmind.com/en/ccv_overview) Legacy API
